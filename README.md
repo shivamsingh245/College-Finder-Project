@@ -4,7 +4,7 @@ The **node modules** for this project can be downloaded using the command:
 `npm install`
 
 The contents from the **.env file** have been removed due to security reasons.
-To run the project, **hostname**, **username**, **password** and **database name** present in the **.env file** must be assigned appropriate values.
+To run the project, **hostname**, **username**, **password**,**database name** and **secret key** present in the **.env file** must be assigned appropriate values.
 
 There are two SQL files included in the project which are **college_finder_users.sql** and **college_finder_college_names.sql**.
 By executing these SQL files, two tables can be created in the database which are **1. Users table** and **2. College names table**.
